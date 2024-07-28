@@ -33,18 +33,19 @@ To start the development server, run:
   npm run dev
   ```
 
-##Project Structure
-index.html: The main HTML file that includes the root div and script to start the React application.
-main.jsx: The entry point of the React application.
-App.jsx: The main component of the application.
-.eslintrc.cjs: Configuration file for ESLint.
+## Project Structure
+- **index.html:** The main HTML file that includes the root div and script to start the React application.
+- **main.jsx:** The entry point of the React application.
+- **App.jsx:** The main component of the application.
+- **.eslintrc.cjs:** Configuration file for ESLint.
 
-##Key Learnings
-Setting Up Vite: Learned to configure Vite for fast development.
-Using React with Vite: Integrated React into the Vite project structure.
-Code Quality with ESLint: Ensured code quality using ESLint and custom rules.
-Fast Refresh with React Refresh: Improved development experience with hot reloading.
-Experience Gained
-Modern Web Development: Gained experience with modern web development tools and practices.
-Configuration Management: Learned to configure and manage development tools for a smooth workflow.
-React Development: Enhanced skills in developing React applications with efficient tooling.
+## Key Learnings
+- **Setting Up Vite:** Learned to configure Vite for fast development.
+- **Using React with Vite:** Integrated React into the Vite project structure.
+- **Code Quality with ESLint:** Ensured code quality using ESLint and custom rules.
+- **Fast Refresh with React Refresh:** Improved development experience with hot reloading.
+
+## Experience Gained
+- **Modern Web Development:** Gained experience with modern web development tools and practices.
+- **Configuration Management:** Learned to configure and manage development tools for a smooth workflow.
+- **React Development:** Enhanced skills in developing React applications with efficient tooling.
